@@ -1,3 +1,5 @@
+Project 1 from Bob Zirol's React Class
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
