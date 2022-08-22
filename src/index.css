@@ -22,6 +22,7 @@ code {
 
 body {
   margin: 0;
+  background-color: rgb(39, 45, 52);
 }
 
 nav {
@@ -31,15 +32,30 @@ nav {
   height: 90px;
   padding: 20px;
 }
-nav > img {
+.nav-icon {
   margin: 10px;
 }
-nav > h3 {
+.nav-title {
   color: rgb(97, 218, 251);
   font-size: x-large;
   margin-right: auto;
 }
-nav > h4 {
+.nav-subtitle {
   color: aliceblue;
   order: 1;
+}
+main {
+  padding: 50px 27px;
+}
+.main-title {
+  font-size: 50px;
+  color: aliceblue;
+}
+.main-facts {
+  margin-top: 45px;
+}
+.main-facts > li {
+  padding-block: 10px;
+  color: aliceblue;
+  max-width: fit-content;
 }
