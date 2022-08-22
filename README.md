@@ -1,4 +1,5 @@
-Project 1 from Bob Zirol's React Class - setup is done, will begin working on it Monday
+Project 1 from Bob Zirol's React Class - Very basic webpage to see how React treats HTML and a brief refresher on CSS
+Can be viewed at https://jp-walter-project-1.netlify.app/
 
 # Getting Started with Create React App
 
