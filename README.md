@@ -1,4 +1,4 @@
-Project 1 from Bob Zirol's React Class
+Project 1 from Bob Zirol's React Class - setup is done, will begin working on it Monday
 
 # Getting Started with Create React App
 
